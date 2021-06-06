@@ -1,0 +1,11 @@
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/CMakeFiles/edit_cache.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/CMakeFiles/MSql.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/generated/CMakeFiles/rebuild_cache.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/generated/CMakeFiles/edit_cache.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/generated/CMakeFiles/generated.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/generated/antlr4_cpp_runtime/CMakeFiles/rebuild_cache.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/generated/antlr4_cpp_runtime/CMakeFiles/edit_cache.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/generated/antlr4_cpp_runtime/runtime/CMakeFiles/rebuild_cache.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/generated/antlr4_cpp_runtime/runtime/CMakeFiles/edit_cache.dir
+/mnt/d/University/sophomore/Lower/DataBase/Lab/MiniSQL/ours/Interpreter/build/generated/antlr4_cpp_runtime/runtime/CMakeFiles/antlr4_cpp_runtime.dir

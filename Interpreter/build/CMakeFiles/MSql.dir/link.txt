@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MSql.dir/main.cpp.o  -o MSql  generated/libgenerated.a generated/antlr4_cpp_runtime/runtime/libantlr4_cpp_runtime.a 
